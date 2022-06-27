@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Fonseca</h1>
 <h3 align="center">One of my greatest passions is making task easier for others, it`s amazing to think that any task can become automated. My interests are software development (web applications and software), data science, the video game industry and project management.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninefrm" alt="ninefrm" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ninefrm" target="blank"><img src="https://img.shields.io/twitter/follow/ninefrm?logo=twitter&style=for-the-badge" alt="ninefrm" /></a> </p>
 
 - 🌱 I’m currently learning **Web3**
