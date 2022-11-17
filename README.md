@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Fonseca</h1>
-<h3 align="center">One of my greatest passions is making task easier for others, it`s amazing to think that any task can become automated. My interests are software development (web applications and software), data science, the video game industry and project management.</h3>
+<h3 align="center">I'm currently working as Software Developer creating solutions that improve the native/legacy tasks of users migrating it to new technologies like DJANGO, MEAN and MERN stack, as well creating solutions choosing the appropriate languages for the problem, such as Python, Javascript, or Java. As well, in my daily tasks include the monitoring of servers that host Java applications which I support (WAS Server).
+
+I want to improve myself in the areas of Data science, Videogames industry, Software Developing and User Experience.</h3>
 
 <p align="left"> <a href="https://twitter.com/ninefrm" target="blank"><img src="https://img.shields.io/twitter/follow/ninefrm?logo=twitter&style=for-the-badge" alt="ninefrm" /></a> </p>
 
 - 🌱 I’m currently learning **Web3**
 
-- 🤝 I’m looking for help with **web applications and scripts**
+- 🤝 I’m looking for help on **web applications and scripts**
 
-- 📄 Know about my experiences [Ninefrm](http://www.ninefrm.com)
+- 📄 Know about my experiences [Ninefrm](https://www.linkedin.com/in/ninefrm/)
 
 - 📫 How to reach me **maxfonseca.r@gmail.com**
 
