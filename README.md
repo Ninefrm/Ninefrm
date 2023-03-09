@@ -5,7 +5,7 @@ I want to improve myself in the areas of Data science, Videogames industry, Soft
 
 <p align="left"> <a href="https://twitter.com/ninefrm" target="blank"><img src="https://img.shields.io/twitter/follow/ninefrm?logo=twitter&style=for-the-badge" alt="ninefrm" /></a> </p>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning ...
 
 - 🤝 I’m looking for help on **web applications and scripts**
 
