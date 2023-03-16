@@ -11,7 +11,7 @@
 - Writing my new chapter.
 
 #### **IBM** - Site Reliability Engineer and Software Developer
-- ETL/DataStage projects
+- ETL/DataStage projects support
 - AIX server support and maintenance
 - Application development using Angular and Express
 - Proficient in Python, Bash, Java, and SQL
