@@ -30,4 +30,4 @@ I'm a Computer Science Engineer with a diverse skill set in software development
 ---
 
 ### 🔗 Connect with me
-[LinkedIn](https://www.linkedin.com/in/ninefrm/)
+[LinkedIn](https://www.linkedin.com/in/maximiliano-fonseca/)
